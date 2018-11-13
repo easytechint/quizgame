@@ -1,0 +1,32 @@
+﻿{
+	"version": 1542074729,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/start-sheet0.png",
+		"images/playbutton-sheet0.png",
+		"images/back-sheet0.png",
+		"images/quiz-sheet0.png",
+		"images/o-sheet0.png",
+		"images/x-sheet0.png",
+		"images/quiz2-sheet0.png",
+		"images/quiz3-sheet0.png",
+		"images/quiz4-sheet0.png",
+		"images/quiz5-sheet0.png",
+		"images/end-sheet0.png",
+		"images/correct-sheet0.png",
+		"images/fail-sheet0.png",
+		"images/correct_-sheet0.png",
+		"images/fail2-sheet0.png",
+		"media/incorrect answer fail.ogg",
+		"media/correct answer 2 1.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
